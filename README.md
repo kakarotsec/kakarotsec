@@ -29,37 +29,27 @@
 
 ---
 
-### <span id="typing"></span>
+### Welcome to My GitHub Profile!
 
-<style>
-/* Typing Animation */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* Cursor Animation */
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-#typing:after {
-  content: "|";
-  animation: blink 1s infinite;
-}
-
-#typing {
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid #000;
-  animation: typing 2s steps(40, end);
-}
-</style>
+<svg id="typing-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500" height="200">
+  <text x="10" y="30" font-family="Arial" font-size="24" id="text" fill="#000"></text>
+  <rect x="10" y="40" width="2" height="30" fill="#000">
+    <animate attributeName="width" from="2" to="20" begin="0s" dur="1s" fill="freeze" />
+  </rect>
+</svg>
 
 <script>
-// Start typing animation after page loads
-document.addEventListener("DOMContentLoaded", function() {
-  var typingElement = document.getElementById("typing");
-  typingElement.innerText = "Welcome to My GitHub Profile!";
-});
+const text = "Welcome to My GitHub Profile!";
+const textElement = document.getElementById('text');
+let index = 0;
+
+function type() {
+  textElement.textContent += text[index];
+  index++;
+  if (index < text.length) {
+    setTimeout(type, 100);
+  }
+}
+
+type();
 </script>
