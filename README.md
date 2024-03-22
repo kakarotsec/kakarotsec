@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=notrifat&abbreviated=true" />
 
 <h1 align="center">
-    <img src="=https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rifat+Al+Jubayer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rifat+Al+Jubayer!;"/>
 </h1>
 
 <h3 align="center">A passionate self-taught Hacker</h3>
@@ -10,13 +10,11 @@
 
 <div align="center">
  
-       🔭 Exploring:</b><br>
+       🔭 Exploring:
         Diving into various technology topics and satisfying my curiosity!
-        <br><br>
-        🌱 Learning:</b><br>
+       🌱 Learning:
         Diving into advanced coding techniques and expanding my knowledge of programming languages.
-        <br><br>
-        ⚡ Fun fact:</b><br>
+       ⚡ Fun fact:
         I once hacked my own WiFi password just to see if I could!
  </div>
  
@@ -31,7 +29,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="https://twitter.com/Tayn511">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
