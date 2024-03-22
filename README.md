@@ -5,14 +5,16 @@
 </h1>
 
 <h3 align="center">A passionate self-taught Hacker</h3>
-
 <br/>
 
 <p align="center">
-🔭 Exploring:**Diving into various technology topics and satisfying my curiosity!**
-🌱 Learning:**Diving into advanced coding techniques and expanding my knowledge of programming languages.**
-⚡ Fun fact:**I once hacked my own WiFi password just to see if I could!**
+🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
+
+🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
+
+⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
 </p>
+
  
 <div align="center"> 
   <a href="mailto:rifataljubaer2@gmail.com">
