@@ -21,8 +21,45 @@
  </samp>
 </p>
 
+<p align="center">
+ <br><br>
+ <b style="color: #9370DB;">📧 Contact:</b><br>
+ Have questions or want to collaborate? Feel free to reach out via email at rifataljubaer2@gmail.com
+</p>
+
 ---
 
-### Welcome to My GitHub Profile!
-#### I'm Rifat Al Jubayer, a passionate self-taught Hacker
-#### I Love Solving Cyber Puzzles
+### <span id="typing"></span>
+
+<style>
+/* Typing Animation */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* Cursor Animation */
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+#typing:after {
+  content: "|";
+  animation: blink 1s infinite;
+}
+
+#typing {
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid #000;
+  animation: typing 2s steps(40, end);
+}
+</style>
+
+<script>
+// Start typing animation after page loads
+document.addEventListener("DOMContentLoaded", function() {
+  var typingElement = document.getElementById("typing");
+  typingElement.innerText = "Welcome to My GitHub Profile!";
+});
+</script>
