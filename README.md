@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=notrifat&abbreviated=true" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rifat+Al+Jubayer!;"/>
+    <img src="=https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rifat+Al+Jubayer!;"/>
 </h1>
 
 <h3 align="center">A passionate self-taught Hacker</h3>
@@ -10,12 +10,9 @@
 
 <div align="center">
  
-       🔭 Exploring:
-        Diving into various technology topics and satisfying my curiosity!
-       🌱 Learning:
-        Diving into advanced coding techniques and expanding my knowledge of programming languages.
-       ⚡ Fun fact:
-        I once hacked my own WiFi password just to see if I could!
+       🔭 Exploring: **Diving into various technology topics and satisfying my curiosity!**
+       🌱 Learning: **Diving into advanced coding techniques and expanding my knowledge of programming languages.**
+       ⚡ Fun fact: **I once hacked my own WiFi password just to see if I could!**
  </div>
  
 <div align="center"> 
@@ -49,7 +46,7 @@
 <div align="center">
   <h2>💻 My Contributions 💻</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://www.hidive.com/tv/non-non-biyori-repeat" />
+  <img alt="snake eating my contributions" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmowdjg5ODFsMTZ0MnFzZnh3MTF4YThrbHVjMmlxYWdmbWFleDRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W226lD4k0WFzTCgays/giphy.gif" />
   
   <br/><br/><br/>
 <br/>
