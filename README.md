@@ -9,9 +9,9 @@
 <br/>
 
 <p align="center">
-🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
-🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
-⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
+🔭 Exploring:**Diving into various technology topics and satisfying my curiosity!**
+🌱 Learning:**Diving into advanced coding techniques and expanding my knowledge of programming languages.**
+⚡ Fun fact:**I once hacked my own WiFi password just to see if I could!**
 </p>
  
 <div align="center"> 
@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>💻 My Contributions 💻</h2>
-  <br>
+
   <img alt="snake eating my contributions" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmowdjg5ODFsMTZ0MnFzZnh3MTF4YThrbHVjMmlxYWdmbWFleDRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W226lD4k0WFzTCgays/giphy.gif" />
   
   <br/><br/><br/>
