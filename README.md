@@ -8,11 +8,12 @@
 <br/>
 
 <p align="center">
-🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
 
-🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
+  🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
 
-⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
+  🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
+
+  ⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
 </p>
 
  
