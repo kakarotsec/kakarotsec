@@ -1,7 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=notrifat&abbreviated=true" />
-
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rifat+Al+Jubayer!;"/>
+<br/>
 </h1>
 
 <h3 align="center">A passionate self-taught Hacker</h3>
@@ -9,11 +10,11 @@
 
 <p align="center">
 
-  🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
+   🔭 **Exploring:** Diving into various technology topics and satisfying my curiosity!  
 
-  🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
+   🌱 **Learning:** Diving into advanced coding techniques and expanding my knowledge of programming languages.  
 
-  ⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
+   ⚡ **Fun fact:** I once hacked my own WiFi password just to see if I could!
 </p>
 
  
