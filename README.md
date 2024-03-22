@@ -31,11 +31,12 @@
 
 ### Welcome to My GitHub Profile!
 
-<svg id="typing-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500" height="200">
-  <text x="10" y="30" font-family="Arial" font-size="24" id="text" fill="#000"></text>
-  <rect x="10" y="40" width="2" height="30" fill="#000">
+<svg id="typing-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
+  <text x="10" y="40" font-family="Arial" font-size="24" id="text" fill="#000"></text>
+  <rect x="10" y="45" width="2" height="20" fill="#000">
     <animate attributeName="width" from="2" to="20" begin="0s" dur="1s" fill="freeze" />
   </rect>
+  <animateTransform attributeName="transform" type="translate" from="0,0" to="500,0" begin="0s" dur="1s" fill="freeze" repeatCount="indefinite"/>
 </svg>
 
 <script>
