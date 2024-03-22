@@ -49,7 +49,7 @@
 
   <img alt="snake eating my contributions" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmowdjg5ODFsMTZ0MnFzZnh3MTF4YThrbHVjMmlxYWdmbWFleDRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W226lD4k0WFzTCgays/giphy.gif" />
   
-  <br/>
+  <br/><br/>
   
 <div align="center">
 <a href='https://ko-fi.com/kakarot5' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
