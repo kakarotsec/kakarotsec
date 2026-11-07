@@ -40,7 +40,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">💻 My Contributions 💻</h2>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmowdjg5ODFsMTZ0MnFzZnh3MTF4YThrbHVjMmlxYWdmbWFleDRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W226lD4k0WFzTCgays/giphy.gif" />
